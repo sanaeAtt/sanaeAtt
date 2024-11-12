@@ -1,10 +1,7 @@
-👋 Hi there! I'm AATIK Sanae, a mobile developer .
+👋 Hello! I'm Sanae Aatik – a mobile and web developer with a love for crafting digital experiences that delight.
 
-🔭 Currently, I'm working on an e-commerce application using Flutter and GetX, and I've developed GiminiChat, an interactive mobile app utilizing Gimini AI for an enhanced messaging experience.
+🌟 I’m passionate about creating apps that don't just work but feel right – blending seamless functionality with beautiful design to make every interaction smooth, intuitive, and engaging.
 
-🌱 My background includes solid experience in programming, UI/UX design, and various other projects in mobile, frontend, and backend development.
+💡 My journey spans the worlds of mobile and web development, with a dedication to user-centered design that brings ideas to life in ways people genuinely enjoy.
 
-🎓 I'm always eager to learn and take on new challenges to contribute to innovative projects in the tech community.
-
-💬 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
-
+🤝 Let’s connect, explore fresh ideas, and shape the future of digital experiences together. Check out my projects, and don’t hesitate to reach out – I’m always excited to collaborate and grow with the community!
